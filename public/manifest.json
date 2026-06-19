@@ -1,0 +1,14 @@
+{
+  "name": "NirogPath - NCD Health Companion",
+  "short_name": "NirogPath",
+  "description": "Track your BP & Sugar. Get AI health guidance. Keep family informed.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1B6B4A",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
