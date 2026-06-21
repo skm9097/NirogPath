@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.nirogpath.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/activity_onboarding.xml",
+        "source": "com.nirogpath.app-main-6:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/activity_ai_consult.xml",
+        "source": "com.nirogpath.app-main-6:/layout/activity_ai_consult.xml"
+    },
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/activity_login.xml",
+        "source": "com.nirogpath.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/fragment_dashboard.xml",
+        "source": "com.nirogpath.app-main-6:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/item_chat_message.xml",
+        "source": "com.nirogpath.app-main-6:/layout/item_chat_message.xml"
+    },
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/activity_add_reading.xml",
+        "source": "com.nirogpath.app-main-6:/layout/activity_add_reading.xml"
+    },
+    {
+        "merged": "com.nirogpath.app-mergeDebugResources-3:/layout/item_medication.xml",
+        "source": "com.nirogpath.app-main-6:/layout/item_medication.xml"
+    }
+]

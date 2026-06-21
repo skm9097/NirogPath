@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NirogPath</string>
+    <string name="app_name_hindi">निरोगपथ</string>
+    <string name="tagline">Your Health Companion</string>
+    <string name="tagline_hindi">आपका स्वास्थ्य साथी</string>
+
+    <!-- Login -->
+    <string name="welcome">Welcome</string>
+    <string name="welcome_hindi">स्वागत है</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="resend_otp_timer">Resend OTP in %ds</string>
+    <string name="otp_sent">OTP sent to +91 %s</string>
+    <string name="invalid_otp">Invalid OTP. Please try again.</string>
+    <string name="enter_valid_number">Enter a valid 10-digit mobile number</string>
+    <string name="data_privacy">Your data stays on your phone. We never share it.</string>
+
+    <!-- Onboarding -->
+    <string name="step_format">Step %1$d of %2$d</string>
+    <string name="basic_info">Basic Information</string>
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other_gender">Other</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip for now</string>
+    <string name="finish_setup">Go to Dashboard</string>
+
+    <!-- Medical History -->
+    <string name="medical_history">Medical History</string>
+    <string name="conditions">Select your conditions</string>
+    <string name="hypertension">Hypertension</string>
+    <string name="diabetes_type2">Diabetes Type 2</string>
+    <string name="diabetes_type1">Diabetes Type 1</string>
+    <string name="heart_disease">Heart Disease</string>
+    <string name="kidney_disease">Kidney Disease</string>
+    <string name="thyroid">Thyroid</string>
+    <string name="none_above">None of the above</string>
+    <string name="years_diagnosed">Years since diagnosed</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="health_status">Health Status</string>
+    <string name="todays_readings">Today\'s Readings</string>
+    <string name="bp_reading">Blood Pressure</string>
+    <string name="sugar_reading">Blood Sugar</string>
+    <string name="add_reading">Add Reading</string>
+    <string name="medications_due">Medications Due</string>
+    <string name="view_all">View All</string>
+    <string name="no_readings_today">No readings recorded today</string>
+
+    <!-- Health -->
+    <string name="record_bp">Record Blood Pressure</string>
+    <string name="record_sugar">Record Blood Sugar</string>
+    <string name="systolic">Systolic (mmHg)</string>
+    <string name="diastolic">Diastolic (mmHg)</string>
+    <string name="pulse">Pulse (bpm)</string>
+    <string name="sugar_value">Sugar Value (mg/dL)</string>
+    <string name="fasting">Fasting</string>
+    <string name="post_meal">Post-Meal (PP)</string>
+    <string name="random">Random</string>
+    <string name="hba1c">HbA1c (%)</string>
+    <string name="save">Save</string>
+    <string name="normal">Normal</string>
+    <string name="elevated">Elevated</string>
+    <string name="high">High</string>
+    <string name="crisis">Crisis</string>
+
+    <!-- Medications -->
+    <string name="medications">Medications</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="frequency">Frequency</string>
+    <string name="time_of_day">Time of Day</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="mark_taken">Mark as Taken</string>
+    <string name="taken">Taken</string>
+    <string name="missed">Missed</string>
+
+    <!-- AI Consult -->
+    <string name="ai_consult">AI Health Assistant</string>
+    <string name="ai_disclaimer">AI suggestions are for information only. Always consult your doctor for medical decisions.</string>
+    <string name="ask_health_question">Ask a health question…</string>
+    <string name="send">Send</string>
+
+    <!-- Guardian -->
+    <string name="guardian">Family Guardian</string>
+    <string name="add_guardian">Add Guardian</string>
+    <string name="guardian_name">Guardian\'s Name</string>
+    <string name="guardian_phone">Guardian\'s Phone</string>
+    <string name="relationship">Relationship</string>
+
+    <!-- Doctor -->
+    <string name="doctor_report">Doctor Report</string>
+    <string name="generate_report">Generate Report</string>
+    <string name="share_report">Share Report</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_meds">Meds</string>
+    <string name="nav_ai">AI</string>
+    <string name="nav_more">More</string>
+
+    <!-- CBAC -->
+    <string name="cbac_screening">CBAC Risk Screening</string>
+    <string name="start_screening">Start Screening</string>
+    <string name="your_risk_score">Your Risk Score</string>
+    <string name="low_risk">Low Risk</string>
+    <string name="moderate_risk">Moderate Risk</string>
+    <string name="high_risk">High Risk</string>
+</resources>
